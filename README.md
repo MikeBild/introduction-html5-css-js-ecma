@@ -1,1 +1,1 @@
-# Introduction to HTML5, CSS3, JavaScript & ECMA
+# Introduction to HTML5, CSS3 & ECMA
