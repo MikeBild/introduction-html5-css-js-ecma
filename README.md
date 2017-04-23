@@ -34,7 +34,7 @@
 * [Background enhancements]()
 * [Transitions, Transforms, Animations]()
 
-## JavaScript und ECMA Script
+## JavaScript
 
 * [Types]()
 * [Constructing and Prototype]()
@@ -43,35 +43,39 @@
 * [Array Map, Reduce, Filter]()
 * [Scopes and Closures]()
 * [Callbacks and Continuation Passing Style]()
-* [ECMA]()
-  * Block-Scope
-  * Template Strings
-  * Destructing
-  * Classes
-  * Statics
-  * Property (Getter/Setter)
-  * Object-Literal Extentions
-  * Modules, Exports and Imports
-  * Arrow-Functions
-  * Default Parameter
-  * Rest-Parameters
-  * Spread-Operator for Objects
-  * Spread-Operator for Arrays
-  * Promises
-  * Async/Await
-  * Generators
-  * Proxy
-  * Observable
-  * Decorators
-* [Pattern]()
-  * Immediate function execution
-  * Self overwriting functions
-  * JavaScript module pattern
-  * Higher-Order functions
-  * Partial function application
-  * Curried functions
-  * Chaining
-  * Async Chaining
+
+## ECMA Script
+
+* [Block-Scope]()
+* [Template Strings]()
+* [Destructing]()
+* [Classes]()
+* [Statics]()
+* [Property (Getter/Setter)]()
+* [Object-Literal Extentions]()
+* [Modules, Exports and Imports]()
+* [Arrow-Functions]()
+* [Default Parameter]()
+* [Rest-Parameters]()
+* [Spread-Operator for Objects]()
+* [Spread-Operator for Arrays]()
+* [Promises]()
+* [Async/Await]()
+* [Generators]()
+* [Proxy]()
+* [Observable]()
+* [Decorators]()
+
+## JavaScript Pattern
+
+* [Immediate function execution]()
+* [Self overwriting functions]()
+* [JavaScript module pattern]()
+* [Higher-Order functions]()
+* [Partial function application]()
+* [Curried functions]()
+* [Chaining]()
+* [Async Chaining]()
 
 ## Issue Reporting
 
